@@ -4,7 +4,7 @@
 
 Bond with creatures from collapsing timelines. Reshape reality itself.
 
-![Chronorift Logo](https://image2url.com/r2/default/images/1769025664677-075e7c1c-06b0-4242-aeee-1fecd9f9c0e6.png)
+![Chronorift Logo](https://i.postimg.cc/jDxwsS94/chronorift.png)
 
 ---
 
