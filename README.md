@@ -467,8 +467,8 @@ For licensing inquiries or partnerships, contact: [business@codekaiju.com](mailt
 
 ## Acknowledgments
 
-- **DullNata** – Game Design & Creative Direction
-- **Code Kaiju Studios Team** – Development, Art, and Community
+- **DullNata** – Co-Lead-Developer & Co-Founder of Code Kaiju Studios
+- **ShanaJonesss** - Co-Lead-Developer & Co-Founder of Code Kaiju Studios
 
 ---
 
